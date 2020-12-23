@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🔭I am currently studying at Southwestern University of Finance and Economics, specializing in credit management.
 
+- 🌱 I’m currently a member of SWUFE-FINTECH-LAB, working on imbalanced learning, GANs
+
+- 📫 How to reach me: shiyu_nie@foxmail.com
+
 ![nieshiyu's github stats](https://github-readme-stats.vercel.app/api?username=nieshiyu)
 
 
