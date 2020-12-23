@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 🔭I am currently studying at Southwestern University of Finance and Economics, specializing in credit management.
+- 🔭Senior student at [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), School of finance, Credit management.
+- 🌱currently a member of SWUFE-FINTECH-LAB.
+- ⚡Python
 
-- 🌱 I’m currently a member of SWUFE-FINTECH-LAB, working on imbalanced learning, GANs
-
-- 📫 How to reach me: shiyu_nie@foxmail.com
 
 ![nieshiyu's github stats](https://github-readme-stats.vercel.app/api?username=nieshiyu)
 
