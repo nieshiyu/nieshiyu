@@ -1,5 +1,4 @@
-###👋 Hi there 
-### I'm Nie Shiyu
+### 👋 Hi there, I'm Nie Shiyu.
 - 🔭Senior student at [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), School of finance, Credit management.
 - 🌱currently a member of SWUFE-FINTECH-LAB, working on imbalanced learning, GANs.
 - ⚡Python
