@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am currently studing at Southwestern University of Finance and Economics, specializing in credit management.
+- 🔭I am currently studying at Southwestern University of Finance and Economics, specializing in credit management.
+
+![nieshiyu's github stats](https://github-readme-stats.vercel.app/api?username=nieshiyu)
+
 
 <!--
 **nieshiyu/nieshiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
